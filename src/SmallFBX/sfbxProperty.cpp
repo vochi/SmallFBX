@@ -5,8 +5,6 @@
 #include "sfbxParser.h"
 
 #include <zlib.h>
-#pragma comment(lib, "zlib.lib")
-
 
 namespace sfbx {
 
